@@ -16,7 +16,7 @@ This project analyzes and models football player data to help clubs make data-dr
   - **Classification**: Predict player position from stats using Random Forest
   - **Regression**: Estimate player market value based on performance and contract details
 - **Player Recommendation System**: Select top 20 players by budget and desired position
-- Tools: R, ggplot2, dplyr, caret, readr, tidyverse
+- Tools: R ( library ggplot2, dplyr, caret, readr, tidyverse )
 
 ## Output
 A lightweight analytics pipeline and recommendation tool that supports coaches and club managers in building optimized teams under budget constraints.
